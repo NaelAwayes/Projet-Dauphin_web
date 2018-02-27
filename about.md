@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: À Propos
 permalink: /about/
 ---
 
-Some information about you!
+À Propos
 
-### More Information
+### Description
 
-A place to include any other types of information that you'd like to include about yourself.
+Le Projet Dauphin est un projet secret développé dans une base secrète nommée ETNA par des soldats de la section d'élite Prep' 2021
 
-### Contact me
+<!-- ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:email@domain.com) -->
