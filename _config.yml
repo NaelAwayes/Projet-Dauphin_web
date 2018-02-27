@@ -9,7 +9,7 @@ name: "Trenches: TCG"
 description: Jeu de carte connecté centré sur la Première Guerre Mondiale (Projet libre Prep'ETNA 2021)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "/images/TrenchesLogo.svg"
+avatar: "/TrenchesTCG/images/TrenchesLogo.svg"
 
 #
 # Flags below are optional
