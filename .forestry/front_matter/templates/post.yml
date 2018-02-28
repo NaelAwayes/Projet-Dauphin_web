@@ -1,0 +1,14 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: content
+  label: Content
+  config:
+    required: true
+    wysiwyg: true
